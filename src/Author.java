@@ -1,5 +1,3 @@
-package Statics;
-
 public class Author {
     private String name;
     private String email;
