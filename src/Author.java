@@ -8,9 +8,9 @@ public class Author {
         this.email = email;
         this.gender = gender;
 
-        }
-        public String getName(){
-            return name;
+    }
+    public String getName(){
+        return name;
     }
 
     public String getEmail(){
@@ -28,6 +28,5 @@ public class Author {
     public String toString(){
         return "The author name is: " + name + " (" + gender + ") " + " and email is: " + email;
     }
-
 
 }
